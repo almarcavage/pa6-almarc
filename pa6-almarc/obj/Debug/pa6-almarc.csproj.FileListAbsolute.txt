@@ -1,0 +1,14 @@
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6-almarc.csprojAssemblyReference.cache
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6_almarc.frmCWID.resources
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6_almarc.frmMain.resources
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6_almarc.Properties.Resources.resources
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6-almarc.csproj.GenerateResource.cache
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\bin\Debug\pa6-almarc.exe.config
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\bin\Debug\pa6-almarc.exe
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\bin\Debug\pa6-almarc.pdb
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6_almarc.frmEdit.resources
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6-almarc.csproj.CopyComplete
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6-almarc.exe
+C:\Users\Amelia\source\repos\pa6-almarc\pa6-almarc\obj\Debug\pa6-almarc.pdb
